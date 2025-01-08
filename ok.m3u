@@ -374,7 +374,7 @@ http://120.76.248.139/live/bfgd/4200000070.m3u8
 http://itms4.sdlk.vip:6721/hls/239/index.m3u8
 #EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/山东农科.png",山东农科
 http://221.0.78.198:1681/hls/10223/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.zbds.top/logo/北京少儿.png",北京少儿
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.zbds.top/logo/KAKU少儿.png",KAKU少儿
 http://221.0.78.198:1681/hls/10228/index.m3u8
 #EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/山东居家购物.png",山东居家购物
 http://144.52.160.109:9901/tsfile/live/1063_1.m3u8
