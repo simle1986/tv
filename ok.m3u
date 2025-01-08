@@ -462,19 +462,19 @@ http://live.ynurl.com/video/s10048-SDTV/index.m3u8
 http://gxlive.snrtv.com/sx8-SD.m3u8
 #EXTINF:-1 group-title="陕西省"tvg-logo="https://live.zbds.top/logo/陕西卫视.png",延安公共
 http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
-#EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西1套.png",陕西1套
+#EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西卫视png",陕西1套
 http://123.138.22.30:9901/tsfile/live/1000_1.m3u8
-#EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西2套.png",陕西2套
+#EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西卫视.png",陕西2套
 http://123.138.22.30:9901/tsfile/live/1001_1.m3u8
-#EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西3套.png",陕西3套
+#EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西卫视.png",陕西3套
 http://123.138.22.30:9901/tsfile/live/1002_1.m3u8
-#EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西5套.png",陕西5套
+#EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西卫视.png",陕西5套
 http://123.138.22.30:9901/tsfile/live/1004_1.m3u8
-#EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西6套.png",陕西6套
+#EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西卫视.png",陕西6套
 http://123.138.22.30:9901/tsfile/live/1005_1.m3u8
-#EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西7套.png",陕西7套
+#EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西卫视.png",陕西7套
 http://123.138.22.30:9901/tsfile/live/1006_1.m3u8
-#EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西8套.png",陕西8套
+#EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西卫视.png",陕西8套
 http://123.138.22.30:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西乐家购物.png",陕西乐家购物
 http://gxlive.snrtv.com/sx6-SD.m3u8
@@ -488,7 +488,8 @@ http://wouu.net:9977/udp/239.93.0.100:5140
 http://gxlive.snrtv.com/sx1-SD.m3u8
 #EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西生活.png",陕西生活
 http://gxlive.snrtv.com/sx3-SD.m3u8
-
+#EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西都市青春.png",陕西都市青春
+http://gxlive.snrtv.com/sx2-SD.m3u8
 #成人频道
 #EXTINF:-1 tvg-id="" tvg-name="Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
@@ -540,5 +541,3 @@ http://cdn.adultiptv.net/blonde.m3u8
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Asian
 http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西都市青春.png",陕西都市青春
-http://gxlive.snrtv.com/sx2-SD.m3u8
