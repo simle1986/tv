@@ -113,7 +113,7 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/6603041244077933770/1.m3u8
 #北京市
 #EXTINF:-1 group-title="北京市" tvg-logo="https://live.zbds.top/logo/北京财经.png",北京财经
 http://111.196.129.152:20000/udp/239.3.1.116:8000
-#EXTINF:-1 group-title="北京市 tvg-logo="https://live.zbds.top/logo/北京青年.png",北京青年
+#EXTINF:-1 group-title="北京市" tvg-logo="https://live.zbds.top/logo/北京青年.png",北京青年
 http://111.196.129.152:20000/udp/239.3.1.118:8000
 #EXTINF:-1 group-title="北京市" tvg-logo="https://live.zbds.top/logo/卡酷少儿.png",卡酷少儿
 http://221.0.78.198:1681/hls/10228/index.m3u8
