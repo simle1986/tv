@@ -1,0 +1,159 @@
+#EXTM3U x-tvg-url="https://e.erw.cc/e.xml"
+#EXTINF:-1 group-title="公告" tvg-logo="https://gitee.com/simle1986/iptv/raw/master/b2b.png",XYXPK
+https://gitee.com/simle1986/iptv/raw/master/xpk.mp4
+#EXTINF:-1 group-title="公告" tvg-logo="https://gitee.com/simle1986/iptv/raw/master/b2b.png",闲鱼小潘柯
+https://gitee.com/simle1986/iptv/raw/master/xpk2.mp4
+
+
+#EXTM3U
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" tvg-name="CCTV1",CCTV-1
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=15654890039634427536&$2M1920x1080
+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" tvg-name="CCTV2",CCTV-2
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=18203640774999492907&amp$2M1920x1080
+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" tvg-name="CCTV3",CCTV-3
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-3hd/2500.m3u8?innersid=9476609640263440821&$2M1920x1080
+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" tvg-name="CCTV4",CCTV-4
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-4sd/1500.m3u8?innersid=2025
+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" tvg-name="CCTV5",CCTV-5
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-5hd/2500.m3u8?innersid=4790815411650771981&$2M1920x1080
+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" tvg-name="CCTV6",CCTV-6
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-6hd/2500.m3u8?innersid=14916759019483157794&$2M1920x1080
+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" tvg-name="CCTV7",CCTV-7
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-7hd/2500.m3u8?innersid=12706415551557919057&amp$2M1920x1080
+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" tvg-name="CCTV8",CCTV-8
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-8hd/2500.m3u8?innersid=15852265263958669967&$2M1920x1080
+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" tvg-name="CCTV9",CCTV-9
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-9hd/2500.m3u8?innersid=17686352686599982856&amp$2M1920x1080
+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" tvg-name="CCTV10",CCTV-10
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-10hd/2500.m3u8?innersid=9053765528789506188$2M1920x1080
+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" tvg-name="CCTV11",CCTV-11
+http://222.134.245.16:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$2M1920x1080
+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" tvg-name="CCTV12",CCTV-12
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-12hd/2500.m3u8?innersid=8190402369178717730$2M1920x1080
+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" tvg-name="CCTV13",CCTV-13
+http://222.134.245.16:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$2M1920x1080
+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" tvg-name="CCTV14",CCTV-14
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-14hd/2500.m3u8?innersid=10749977474028640862$2M1920x1080
+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" tvg-name="CCTV15",CCTV-15
+http://222.134.245.16:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$2M1920x1080
+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" tvg-name="CCTV16",CCTV-16
+http://58.17.116.69:9908/tsfile/live/0001_17.m3u8?key=txiptv&playlive=1&authid=0$2M1920x1080
+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" tvg-name="CCTV17",CCTV-17
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-17hd/2500.m3u8?innersid=2038717225283627700$2M1920x1080
+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV8K.png" tvg-name="CCTV8K",CCTV-8K
+http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1$2M3840x2160
+
+#EXTM3U
+#
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png",广东卫视
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=23100314832080393052M1920x1080
+
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png",湖南卫视
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-hd/2500.m3u8?innersid=113553772248260612252M1920x1080
+
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png",北京卫视
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/bjws-hd/1.m3u8?innersid=183601296236275416112M1920x1080
+
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png",湖北卫视
+http://222.134.245.16:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=02M1920x1080
+
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png",东方卫视
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=69981145294643693182M1920x1080
+
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png",东南卫视
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/fjws-hd/2500.m3u8?innersid=109435541110889890872M1920x1080
+
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png",黑龙江卫视
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/hljws-hd/2500.m3u8?innersid=3559146512286674480&$2M1920x1080
+
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png",吉林卫视
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/jlws-hd/2500.m3u8?innersid=11095614579634751142&$2M1920x1080
+
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png",江苏卫视
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/jsws-hd/2500.m3u8?innersid=14912719076157451667&$2M1920x1080
+
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png",江西卫视
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/jxws-hd/2500.m3u8?innersid=14570431181364255736&$2M1920x1080
+
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png",辽宁卫视
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/lnws-hd/2500.m3u8?innersid=6324592032119595697&$2M1920x1080
+
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png",四川卫视
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/scws-hd/2500.m3u8?innersid=17534924581903335933&$2M1920x1080
+
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png",深圳卫视
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/szws-hd/2500.m3u8?innersid=15000776628606995758&$2M1920x1080
+
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png",云南卫视
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=17488930753778751907&$2M1920x1080
+
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png",浙江卫视
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/zsws-hd/2500.m3u8?innersid=6252212644869032383&$2M1920x1080
+
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png",山东卫视
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/sdws-hd/2500.m3u8?innersid=3721212644869031100&$2M1920x1080
+
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png",山西卫视
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/shanxiws-sd/1500.m3u8?innersid=2025
+
+#EXTM3U
+
+#EXTINF:-1 group-title="山西频道" tvg-logo="https://gitee.com/simle1986/iptv/raw/master/bb.png",古县综合
+https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd$订阅源-720x480
+#EXTINF:-1 group-title="山西频道" tvg-logo="https://gitee.com/simle1986/iptv/raw/master/bb.png",潞城新闻综合
+http://59.48.42.6:62204/lucheng.m3u8?zshanxd$订阅源-1920x1080
+#EXTINF:-1 group-title="山西频道" tvg-logo="https://gitee.com/simle1986/iptv/raw/master/bb.png",阳曲综合
+https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd$订阅源-1920x108
+EXTINF:-1 group-title="山西频道"tvg-logo="https://gitee.com/simle1986/iptv/raw/master/bb.png",高平综合
+http://live.gprmt.cn/gpnews/hd/live.m3u8
+#EXTINF:-1 group-title="山西频道"tvg-logo="https://gitee.com/simle1986/iptv/raw/master/bb.png",吉县综合
+http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
+#EXTINF:-1 group-title="山西频道"tvg-logo="https://gitee.com/simle1986/iptv/raw/master/bb.png",晋中公共
+http://jzlive.jztvnews.com:90/live/jzgg.m3u8
+#EXTINF:-1 group-title="山西频道"tvg-logo="https://gitee.com/simle1986/iptv/raw/master/bb.png",晋中新闻
+http://jzlive.jztvnews.com:90/live/jzzh.m3u8
+#EXTINF:-1 group-title="山西频道"tvg-logo="https://gitee.com/simle1986/iptv/raw/master/bb.png",黎城综合
+http://111.53.96.67:8081/live/1/index.m3u8
+#EXTINF:-1 group-title="山西频道"tvg-logo="https://gitee.com/simle1986/iptv/raw/master/bb.png",襄汾综合
+http://7sycrzf7.live.sxmty.com/live/hls/da9222d15ce7491d85fe3519e5201df5/af161dfd2a434b22b3b75fdd72fb9038-1.m3u8?zshanxd
+#EXTINF:-1 group-title="山西频道"tvg-logo="https://gitee.com/simle1986/iptv/raw/master/bb.png",晋城新闻
+http://live.jinnews.com.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="山西频道"tvg-logo="https://gitee.com/simle1986/iptv/raw/master/bb.png",晋城公共
+http://live.jinnews.com.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="山西频道"tvg-logo="https://gitee.com/simle1986/iptv/raw/master/bb.png",汾西综合
+https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8
+#EXTINF:-1 group-title="山西频道"tvg-logo="https://gitee.com/simle1986/iptv/raw/master/bb.png",壶关电视
+http://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8
+#EXTINF:-1 group-title="山西频道"tvg-logo="https://gitee.com/simle1986/iptv/raw/master/bb.png",翼城综合
+http://live.aiyicheng.com.cn/channel1/sd/live.m3u8
+#EXTINF:-1 group-title="山西频道"tvg-logo="https://gitee.com/simle1986/iptv/raw/master/bb.png",定襄综合
+http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
+#EXTINF:-1 group-title="山西频道"tvg-logo="https://gitee.com/simle1986/iptv/raw/master/bb.png",五台综合
+https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8
+#EXTINF:-1 group-title="山西频道"tvg-logo="https://gitee.com/simle1986/iptv/raw/master/bb.png",原平综合
+http://xkmspyxn.live.sxmty.com/live/hls/65072fcc05414062bf02088d2a2a77b2/9da977614b044ef59d11779e997a12f8-1.m3u8
+#EXTINF:-1 group-title="山西频道"tvg-logo="https://gitee.com/simle1986/iptv/raw/master/bb.png",武乡新闻综合
+http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
+#EXTINF:-1 group-title="山西频道"tvg-logo="https://gitee.com/simle1986/iptv/raw/master/bb.png",怀仁综合
+http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd
+#EXTINF:-1 group-title="山西频道"tvg-logo="https://gitee.com/simle1986/iptv/raw/master/bb.png",闻喜综合
+https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
+
+
