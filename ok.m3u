@@ -225,15 +225,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 group-title="浙江省" tvg-logo="https://live.zbds.top/logo/浙江青田.png",浙江青田
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="上海市" tvg-logo="https://live.zbds.top/logo/上海教育.png",上海教育
-http://61.173.144.157:9901/tsfile/live/1007_1.m3u8
-#EXTINF:-1 group-title="上海市" tvg-logo="https://mirror.ghproxy.com/https://raw.bgithub.xyz/drangjchen/IPTV/main/Logo/上海新闻-light.png",上海新闻
-http://61.173.144.157:9901/tsfile/live/1000_1.m3u8
-#EXTINF:-1 group-title="上海市" tvg-logo="https://live.zbds.top/logo/上海纪实.png",上海纪实
-http://61.173.144.157:9901/tsfile/live/1005_1.m3u8
-#EXTINF:-1 group-title="上海市" tvg-logo="https://mirror.ghproxy.com/https://raw.bgithub.xyz/drangjchen/IPTV/main/Logo/东方财经-light.png",东方财经
-http://223.166.234.9:7777/tsfile/live/1031_1.m3u8
-#EXTM3U
 #EXTINF:-1 group-title="山西省",晋中公共
 http://jzlive.jztvnews.com:90/live/jzgg.m3u8
 #EXTINF:-1 group-title="山西省",晋中综合
@@ -370,14 +361,10 @@ http://120.76.248.139/live/bfgd/4200000073.m3u8
 http://120.76.248.139/live/bfgd/4200000283.m3u8
 #EXTINF:-1 group-title="辽宁省",辽宁|辽宁体育
 http://120.76.248.139/live/bfgd/4200000611.m3u8
-#EXTINF:-1 group-title="辽宁省",辽宁卫视
+#EXTINF:-1 group-title="辽宁省",辽宁青少
 http://120.76.248.139/live/bfgd/4200000141.m3u8
-#EXTINF:-1 group-title="辽宁省",辽宁卫视
-http://120.76.248.139/live/bfgd/4200000185.m3u8
 #EXTINF:-1 group-title="辽宁省",辽宁|营口新闻频道
 http://120.76.248.139/live/bfgd/4200000278.m3u8
-#EXTINF:-1 group-title="辽宁省",辽宁卫视HD
-http://120.76.248.139/live/bfgd/4200000058.m3u8
 #EXTINF:-1 group-title="辽宁省",辽宁|辽宁影视剧
 http://120.76.248.139/live/bfgd/4200000070.m3u8
 
@@ -387,7 +374,7 @@ http://120.76.248.139/live/bfgd/4200000070.m3u8
 http://itms4.sdlk.vip:6721/hls/239/index.m3u8
 #EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/山东农科.png",山东农科
 http://221.0.78.198:1681/hls/10223/index.m3u8
-#EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/山东国际.png",山东国际
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.zbds.top/logo/北京少儿.png",北京少儿
 http://221.0.78.198:1681/hls/10228/index.m3u8
 #EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/山东居家购物.png",山东居家购物
 http://144.52.160.109:9901/tsfile/live/1063_1.m3u8
