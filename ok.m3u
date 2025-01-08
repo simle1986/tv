@@ -482,7 +482,7 @@ http://gxlive.snrtv.com/sx6-SD.m3u8
 http://gxlive.snrtv.com/sx7-SD.m3u8
 #EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西公共.png",陕西公共
 http://gxlive.snrtv.com/sx5-SD.m3u8
-#EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西农林.png",陕西农林
+#EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/农林卫视.png",农林卫视
 http://wouu.net:9977/udp/239.93.0.100:5140
 #EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西新闻资讯.png",陕西新闻资讯
 http://gxlive.snrtv.com/sx1-SD.m3u8
