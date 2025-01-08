@@ -165,7 +165,7 @@ http://cdn.adultiptv.net/asian.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="湖南省" tvg-logo="https://live.zbds.top/logo/湖南电影.png",湖南电影
 http://175.10.230.91:8081/tsfile/live/0019_1.m3u8
-#EXTINF:-1 group-title="湖南省" tvg-logo="https://live.zbds.top/logo/湖南公共.png",湖南公共
+#EXTINF:-1 group-title="湖南省" tvg-logo="https://live.zbds.top/logo/湖南爱晚.png",湖南爱晚
 http://116.128.242.83:9901/tsfile/live/0117_1.m3u8
 #EXTINF:-1 group-title="湖南省" tvg-logo="https://live.zbds.top/logo/湖南国际.png",湖南国际
 http://175.10.230.91:8081/tsfile/live/1001_1.m3u8
@@ -224,11 +224,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 group-title="浙江省" tvg-logo="https://live.zbds.top/logo/浙江青田.png",浙江青田
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.zbds.top/logo/北京财经.png",北京财经
-http://111.196.129.152:20000/udp/239.3.1.116:8000
-#EXTINF:-1 group-title="北京市" tvg-logo="https://live.zbds.top/logo/北京青年.png",北京青年
-http://111.196.129.152:20000/udp/239.3.1.118:8000
 #EXTM3U
 #EXTINF:-1 group-title="上海市" tvg-logo="https://live.zbds.top/logo/上海教育.png",上海教育
 http://61.173.144.157:9901/tsfile/live/1007_1.m3u8
