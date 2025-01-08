@@ -452,32 +452,6 @@ http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/play
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 #EXTINF:-1 group-title="云南省" tvg-logo="https://epg.v1.mk/logo/云南文山.png",文山综合
 http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
-#EXTINF:-1 group-title="云南省" tvg-logo="https://epg.v1.mk/logo/NewTV云南.png",云南|峨山电视
-http://live.ynurl.com/video/s10034-ESTV/index.m3u8
-#EXTINF:-1 group-title="云南省" tvg-logo="https://epg.v1.mk/logo/NewTV云南.png",云南|广南电视台
-http://live.ynurl.com/video/s10031-gnxgbds/index.m3u8
-#EXTINF:-1 group-title="云南省" tvg-logo="https://epg.v1.mk/logo/NewTV云南.png",云南|江川综合
-http://live.ynurl.com/video/s10037-JCTV/index.m3u8
-#EXTINF:-1 group-title="云南省" tvg-logo="https://epg.v1.mk/logo/NewTV云南.png",云南|金平综合
-http://live.ynurl.com/video/s10041-JPTV/index.m3u8
-#EXTINF:-1 group-title="云南省" tvg-logo="https://epg.v1.mk/logo/NewTV云南.png",云南|梁河综合
-http://live.ynurl.com/video/s10032-lhtv/index.m3u8
-#EXTINF:-1 group-title="云南省" tvg-logo="https://epg.v1.mk/logo/NewTV云南.png",云南|陇川综合
-http://live.ynurl.com/video/s10027-LCDST/index.m3u8
-#EXTINF:-1 group-title="云南省" tvg-logo="https://epg.v1.mk/logo/NewTV云南.png",云南|麻栗坡台
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
-#EXTINF:-1 group-title="云南省" tvg-logo="https://epg.v1.mk/logo/NewTV云南.png",云南|马关电视台
-http://live.ynurl.com/video/s10046-001/index.m3u8
-#EXTINF:-1 group-title="云南省" tvg-logo="https://epg.v1.mk/logo/NewTV云南.png",云南|芒市综合
-http://live.ynurl.com/video/s10001-mstv1/index.m3u8
-#EXTINF:-1 group-title="云南省" tvg-logo="https://epg.v1.mk/logo/NewTV云南.png",云南|蒙自综合
-http://live.ynurl.com/video/s10019-mzdst/index.m3u8
-#EXTINF:-1 group-title="云南省" tvg-logo="https://epg.v1.mk/logo/NewTV云南.png",云南|怒江新闻
-http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8
-#EXTINF:-1 group-title="云南省" tvg-logo="https://epg.v1.mk/logo/NewTV云南.png",云南|瑞丽频道
-http://live.ynurl.com/video/s10021-rltv/index.m3u8
-#EXTINF:-1 group-title="云南省" tvg-logo="https://epg.v1.mk/logo/NewTV云南.png",云南|施甸综合
-http://live.ynurl.com/video/s10048-SDTV/index.m3u8
 #EXTM3U
 #陕西
 #EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西西部电影.png",陕西西部电影
