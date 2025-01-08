@@ -321,9 +321,7 @@ http://120.76.248.139/live/bfgd/4200000141.m3u8
 http://120.76.248.139/live/bfgd/4200000278.m3u8
 #EXTINF:-1 group-title="辽宁省" tvg-logo="https://live.zbds.top/logo/辽宁卫视.png",辽宁|辽宁影视剧
 http://120.76.248.139/live/bfgd/4200000070.m3u8
-
 #EXTM3U
-
 #EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/山东体育.png",山东体育
 http://itms4.sdlk.vip:6721/hls/239/index.m3u8
 #EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/山东农科.png",山东农科
@@ -340,28 +338,27 @@ http://221.0.78.198:1681/hls/10226/index.m3u8
 http://221.0.78.198:1681/hls/10220/index.m3u8
 #EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/山东齐鲁.png",山东齐鲁
 http://itms4.sdlk.vip:6721/hls/209/index.m3u8
-#EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/济南商务.png",济南商务
+#EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/山东卫视.png",济南商务
 http://221.0.78.198:1681/hls/10284/index.m3u8
-#EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/济南娱乐.png",济南娱乐
+#EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/山东卫视.png",济南娱乐
 http://221.0.78.198:1681/hls/10283/index.m3u8
-#EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/济南教育.png",济南教育
+#EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/山东卫视.png",济南教育
 http://221.0.78.198:1681/hls/10286/index.m3u8
-#EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/济南新闻综合.png",济南新闻综合
+#EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/山东卫视.png",济南新闻综合
 http://221.0.78.198:1681/hls/10279/index.m3u8
-#EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/济南生活.png",济南生活
+#EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/山东卫视.png",济南生活
 http://221.0.78.198:1681/hls/10281/index.m3u8
-#EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/济南综合.png",济南综合
+#EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/山东卫视.png",济南综合
 http://itms4.sdlk.vip:6721/hls/210/index.m3u8
-#EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/济南都市.png",济南都市
+#EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/山东卫视.png",济南都市
 http://221.0.78.198:1681/hls/10280/index.m3u8
-#EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/济宁公共.png",济宁公共
+#EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/山东卫视.png",济宁公共
 http://111.14.181.15:9901/tsfile/live/1009_1.m3u8
-#EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/济宁图文.png",济宁图文
+#EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/山东卫视.png",济宁图文
 http://lives.jnnews.tv/video/s10001-JNTV4/index.m3u8
-#EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/济宁教育.png",济宁教育
+#EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/山东卫视.png",济宁教育
 http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8
-#EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/济宁综合.png",济宁综合
-http://111.14.181.15:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/山东卫视.png",济宁综合
 #EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/山东卫视.png",青州电视台新闻综合频道
 http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 #EXTINF:-1 group-title="山东省" tvg-logo="https://live.zbds.top/logo/山东卫视.png",青州电视台生活频道
