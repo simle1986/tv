@@ -42,6 +42,18 @@ http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122
 http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="央视频道",CHC家庭影院
 http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN英语
+https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
+https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
+https://0472.org/hls/cgtne.m3u8
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视频道",CGTN法语
+https://0472.org/hls/cgtnf.m3u8
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视频道",CGTN西语
+https://0472.org/hls/cgtnx.m3u8
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
+https://0472.org/hls/cgtna.m3u8
 #卫视频道
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视频道",北京卫视 
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000031556/index.m3u8?channel-id=bestzb&Contentid=5000000004000031556&livemode=1&stbId=3
@@ -111,12 +123,13 @@ http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000013359/index.m3u8?c
 http://[2409:8087:5e00:24::1e]:6060/000000001000/6603041244077933770/1.m3u8
 #EXTM3U
 #北京市
+#EXTINF:-1 group-title="北京市" tvg-logo="https://live.zbds.top/logo/卡酷少儿.png",卡酷少儿
+http://221.0.78.198:1681/hls/10228/index.m3u8
 #EXTINF:-1 group-title="北京市" tvg-logo="https://live.zbds.top/logo/北京财经.png",北京财经
 http://111.196.129.152:20000/udp/239.3.1.116:8000
 #EXTINF:-1 group-title="北京市" tvg-logo="https://live.zbds.top/logo/北京青年.png",北京青年
 http://111.196.129.152:20000/udp/239.3.1.118:8000
-#EXTINF:-1 group-title="北京市" tvg-logo="https://live.zbds.top/logo/卡酷少儿.png",卡酷少儿
-http://221.0.78.198:1681/hls/10228/index.m3u8
+
 #EXTM3U
 #湖南省
 #EXTINF:-1 group-title="湖南省" tvg-logo="https://live.zbds.top/logo/湖南电影.png",湖南电影
