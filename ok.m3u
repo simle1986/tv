@@ -122,15 +122,6 @@ http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000013359/index.m3u8?c
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视频道",西藏卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/6603041244077933770/1.m3u8
 #EXTM3U
-#北京市
-#EXTINF:-1 group-title="北京市" tvg-logo="https://live.zbds.top/logo/卡酷少儿.png",卡酷少儿
-http://221.0.78.198:1681/hls/10228/index.m3u8
-#EXTINF:-1 group-title="北京市" tvg-logo="https://live.zbds.top/logo/北京财经.png",北京财经
-http://111.196.129.152:20000/udp/239.3.1.116:8000
-#EXTINF:-1 group-title="北京市" tvg-logo="https://live.zbds.top/logo/北京青年.png",北京青年
-http://111.196.129.152:20000/udp/239.3.1.118:8000
-
-#EXTM3U
 #湖南省
 #EXTINF:-1 group-title="湖南省" tvg-logo="https://live.zbds.top/logo/湖南电影.png",湖南电影
 http://175.10.230.91:8081/tsfile/live/0019_1.m3u8
@@ -451,6 +442,14 @@ http://gxlive.snrtv.com/sx1-SD.m3u8
 http://gxlive.snrtv.com/sx3-SD.m3u8
 #EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西都市青春.png",陕西都市青春
 http://gxlive.snrtv.com/sx2-SD.m3u8
+#EXTM3U
+#北京市
+#EXTINF:-1 group-title="北京市" tvg-logo="https://live.zbds.top/logo/卡酷少儿.png",卡酷少儿
+http://221.0.78.198:1681/hls/10228/index.m3u8
+#EXTINF:-1 group-title="北京市" tvg-logo="https://live.zbds.top/logo/北京财经.png",北京财经
+http://111.196.129.152:20000/udp/239.3.1.116:8000
+#EXTINF:-1 group-title="北京市" tvg-logo="https://live.zbds.top/logo/北京青年.png",北京青年
+http://111.196.129.152:20000/udp/239.3.1.118:8000
 #EXTM3U
 #成人频道
 #EXTINF:-1 tvg-id="" tvg-name="Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Live Cams
