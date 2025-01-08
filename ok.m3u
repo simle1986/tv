@@ -462,7 +462,7 @@ http://live.ynurl.com/video/s10048-SDTV/index.m3u8
 http://gxlive.snrtv.com/sx8-SD.m3u8
 #EXTINF:-1 group-title="陕西省"tvg-logo="https://live.zbds.top/logo/陕西卫视.png",延安公共
 http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
-#EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西卫视png",陕西1套
+#EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西卫视.png",陕西1套
 http://123.138.22.30:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西卫视.png",陕西2套
 http://123.138.22.30:9901/tsfile/live/1001_1.m3u8
@@ -476,7 +476,7 @@ http://123.138.22.30:9901/tsfile/live/1005_1.m3u8
 http://123.138.22.30:9901/tsfile/live/1006_1.m3u8
 #EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西卫视.png",陕西8套
 http://123.138.22.30:9901/tsfile/live/1007_1.m3u8
-#EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西乐家购物.png",陕西乐家购物
+#EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西卫视.png",陕西乐家购物
 http://gxlive.snrtv.com/sx6-SD.m3u8
 #EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西体育休闲.png",陕西体育休闲
 http://gxlive.snrtv.com/sx7-SD.m3u8
