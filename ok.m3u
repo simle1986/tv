@@ -225,7 +225,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 group-title="浙江省" tvg-logo="https://live.zbds.top/logo/浙江青田.png",浙江青田
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="北京市" tvg-logo="https://live.zbds.top/logo/北京财经.png",北京财经
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.zbds.top/logo/北京财经.png",北京财经
 http://111.196.129.152:20000/udp/239.3.1.116:8000
 #EXTINF:-1 group-title="北京市" tvg-logo="https://live.zbds.top/logo/北京青年.png",北京青年
 http://111.196.129.152:20000/udp/239.3.1.118:8000
@@ -558,11 +558,3 @@ http://gxlive.snrtv.com/sx1-SD.m3u8
 http://gxlive.snrtv.com/sx3-SD.m3u8
 #EXTINF:-1 group-title="陕西省" tvg-logo="https://live.zbds.top/logo/陕西都市青春.png",陕西都市青春
 http://gxlive.snrtv.com/sx2-SD.m3u8
-
-
-#EXTINF:-1 group-title="河北省" tvg-logo="https://live.zbds.top/logo/河北农民.png",河北农民
-http://121.19.134.222:808/tsfile/live/1005_1.m3u8
-#EXTINF:-1 group-title="河北省" tvg-logo="https://live.zbds.top/logo/河北衡山.png",河北衡山
-http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
-#EXTINF:-1 group-title="河北省" tvg-logo="https://live.zbds.top/logo/河北都市.png",河北都市
-http://121.19.134.222:808/tsfile/live/1001_1.m3u8
