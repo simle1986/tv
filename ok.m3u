@@ -202,12 +202,10 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226502/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="浙江省" tvg-logo="https://live.zbds.top/logo/浙江少儿.png",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 group-title="浙江省" tvg-logo="https://live.zbds.top/logo/浙江影视.png",浙江影视
+#EXTINF:-1 group-title="浙江省" tvg-logo="https://live.zbds.top/logo/浙江影视娱乐.png",浙江影视娱乐
 https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 #EXTINF:-1 group-title="浙江省" tvg-logo="https://live.zbds.top/logo/浙江教科影视.png",浙江教科影视
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 group-title="浙江省" tvg-logo="https://live.zbds.top/logo/中国蓝新闻.png",中国蓝新闻
-https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 #EXTINF:-1 group-title="浙江省" tvg-logo="https://live.zbds.top/logo/浙江新闻.png",浙江公共新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 group-title="浙江省" tvg-logo="https://live.zbds.top/logo/浙江国际.png",浙江国际
@@ -216,7 +214,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 group-title="浙江省" tvg-logo="https://live.zbds.top/logo/浙江民生休闲.png",浙江民生休闲
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 group-title="浙江省" tvg-logo="https://live.zbds.top/logo/浙江生活.png",浙江生活
+#EXTINF:-1 group-title="浙江省" tvg-logo="https://live.zbds.top/logo/浙江经济生活.png",浙江生活
 http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 #EXTINF:-1 group-title="浙江省" tvg-logo="https://live.zbds.top/logo/浙江经济生活.png",浙江经视
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
