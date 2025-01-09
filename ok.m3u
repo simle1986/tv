@@ -122,6 +122,8 @@ http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031121/index.m3u8?c
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000013359/index.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视频道",西藏卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/6603041244077933770/1.m3u8
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视频道",延边卫视
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTM3U
 #NewTV(IPV6)
 #EXTINF:-1 group-title="NewTV(IPV6)"tvg-logo="https://epg.v1.mk/logo/NewTV爱情喜剧.png",NewTV爱情喜剧
@@ -306,10 +308,6 @@ http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8
 http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
 #EXTINF:-1 group-title="吉林省" tvg-logo="https://live.zbds.top/logo/吉林卫视.png",延边汉语综合
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-#EXTINF:-1 group-title="吉林省" tvg-logo="https://live.zbds.top/logo/吉林卫视.png",延边卫视
-http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
-#EXTINF:-1 group-title="吉林省" tvg-logo="https://live.zbds.top/logo/吉林卫视.png",延边卫视
-http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 group-title="吉林省" tvg-logo="https://live.zbds.top/logo/吉林卫视.png",德惠综合
 http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
 #EXTINF:-1 group-title="吉林省" tvg-logo="https://live.zbds.top/logo/吉林卫视.png",九台综合
