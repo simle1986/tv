@@ -133,6 +133,26 @@ http://nn.7x9d.cn/组播/咪咕视频.php?id=tzxwzh
 http://nn.7x9d.cn/组播/咪咕视频.php?id=sqxwzh
 #EXTINF:-1 group-title="央视卫视"  tvg-logo="https://epg.v1.mk/logo/徐州新闻综合.png",徐州新闻综合
 http://nn.7x9d.cn/组播/咪咕视频.php?id=xzxwzh
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.zbds.top/logo/浙江少儿.png",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.zbds.top/logo/浙江卫视.png",浙江影视娱乐
+https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.zbds.top/logo/浙江教科影视.png",浙江教科影视
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.zbds.top/logo/浙江新闻.png",浙江公共新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.zbds.top/logo/浙江国际.png",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.zbds.top/logo/之江纪录.png",浙江之江纪录
+http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.zbds.top/logo/浙江民生休闲.png",浙江民生休闲
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.zbds.top/logo/浙江经济生活.png",浙江生活
+http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.zbds.top/logo/浙江经济生活.png",浙江经视
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.zbds.top/logo/钱江都市.png",浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 $
 #EXTM3U
 #央视频道
@@ -385,28 +405,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226492/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226499/index.m3u8
 #EXTINF:-1 group-title="黑龙江" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",双鸭山新闻综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226502/index.m3u8
-#EXTM3U
-#浙江省
-#EXTINF:-1 group-title="浙江省" tvg-logo="https://live.zbds.top/logo/浙江少儿.png",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 group-title="浙江省" tvg-logo="https://live.zbds.top/logo/浙江卫视.png",浙江影视娱乐
-https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
-#EXTINF:-1 group-title="浙江省" tvg-logo="https://live.zbds.top/logo/浙江教科影视.png",浙江教科影视
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 group-title="浙江省" tvg-logo="https://live.zbds.top/logo/浙江新闻.png",浙江公共新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 group-title="浙江省" tvg-logo="https://live.zbds.top/logo/浙江国际.png",浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 group-title="浙江省" tvg-logo="https://live.zbds.top/logo/之江纪录.png",浙江之江纪录
-http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 group-title="浙江省" tvg-logo="https://live.zbds.top/logo/浙江民生休闲.png",浙江民生休闲
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 group-title="浙江省" tvg-logo="https://live.zbds.top/logo/浙江经济生活.png",浙江生活
-http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-#EXTINF:-1 group-title="浙江省" tvg-logo="https://live.zbds.top/logo/浙江经济生活.png",浙江经视
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 group-title="浙江省" tvg-logo="https://live.zbds.top/logo/钱江都市.png",浙江钱江
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTM3U
 #山西省
 #EXTINF:-1 group-title="山西省" tvg-logo="https://live.zbds.top/logo/山西卫视.png",晋中公共
