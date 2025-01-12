@@ -153,7 +153,7 @@ http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 group-title="央视卫视" tvg-logo="https://live.zbds.top/logo/钱江都市.png",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-$
+
 #EXTM3U
 #央视频道
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV-1 
@@ -366,7 +366,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 #EXTINF:-1 group-title="NewTV(IPV4)"tvg-logo="https://epg.v1.mk/logo/NewTV中国功夫.png",NewTV中国功夫
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-$
+
 #EXTM3U
 #湖南省
 #EXTINF:-1 group-title="湖南省" tvg-logo="https://live.zbds.top/logo/湖南电影.png",湖南电影
