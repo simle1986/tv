@@ -196,9 +196,9 @@ http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 #EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/ZooMoo.png",ZooMoo
 http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/Love Nature HD.png",Love Nature HD
+#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/Love Nature.png",Love Nature HD
 http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/Love Nature HD.png",Love Nature HD
+#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/Love Nature.png",Love Nature HD
 http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
 #EXTM3U
 #央视频道
