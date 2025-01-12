@@ -168,11 +168,11 @@ http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 #EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/翡翠综合台.png",翡翠综合台(北美)
 http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/千禧经典台.png",千禧经典台(HK)
+#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/千禧经典台.png",千禧经典台
 http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 #EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/翡翠剧集台.png",翡翠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/娱乐新闻台".png,娱乐新闻台(HK)
+#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/娱乐新闻台".png,娱乐新闻台
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 #EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/PopC.png",PopC
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
