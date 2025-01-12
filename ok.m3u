@@ -154,11 +154,11 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/TVBS.png",TVBS
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/无线新闻台.png",无线新闻台(北美)
+#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/无线新闻.png",无线新闻台(北美)
 http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png",凤凰资讯
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/无线新闻台.png",无线新闻台
+#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/无线新闻.png",无线新闻台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png",美亚电影台
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
