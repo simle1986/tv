@@ -626,49 +626,6 @@ http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 group-title="NewTV(IPV6)"tvg-logo="https://epg.v1.mk/logo/NewTV中国功夫.png",中国功夫
 http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2070901039_-123359714/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 #EXTM3U
-#NewTV(IPV4)
-#EXTINF:-1 group-title="NewTV(IPV4)"tvg-logo="https://epg.v1.mk/logo/NewTV爱情喜剧.png",NewTV爱情喜剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV4)"tvg-logo="https://epg.v1.mk/logo/NewTV超级电视剧.png",NewTV超级电视剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV4)"tvg-logo="https://epg.v1.mk/logo/NewTV超级电影.png",NewTV超级电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV4)"tvg-logo="https://epg.v1.mk/logo/NewTV超级综艺.png",NewTV超级综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV4)"tvg-logo="https://epg.v1.mk/logo/NewTV潮妈辣婆.png",NewTV潮妈辣婆
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV4)"tvg-logo="https://epg.v1.mk/logo/NewTV东北热剧.png",NewTV东北热剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV4)"tvg-logo="https://epg.v1.mk/logo/NewTV动作电影.png",NewTV动作电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV4)"tvg-logo="https://epg.v1.mk/logo/NewTV古装剧场.png",NewTV古装剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV4)"tvg-logo="https://epg.v1.mk/logo/NewTV欢乐剧场.png",NewTV欢乐剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV4)"tvg-logo="https://epg.v1.mk/logo/NewTV金牌综艺.png",NewTV金牌综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV4)"tvg-logo="https://epg.v1.mk/logo/NewTV惊悚悬疑.png",NewTV惊悚悬疑
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV4)"tvg-logo="https://epg.v1.mk/logo/NewTV.png",NewTV精品记录
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV4)"tvg-logo="https://epg.v1.mk/logo/NewTV军旅剧场.png",NewTV军旅剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV4)"tvg-logo="https://epg.v1.mk/logo/NewTV军事评论.png",NewTV军事评论
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV4)"tvg-logo="https://epg.v1.mk/logo/NewTV明星大片.png",NewTV明星大片
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV4)"tvg-logo="https://epg.v1.mk/logo/NewTV农业致富.png",NewTV农业致富
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV4)"tvg-logo="https://epg.v1.mk/logo/NewTV.png",NewTV武搏世界
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV4)"tvg-logo="https://epg.v1.mk/logo/NewTV炫舞未来.png",NewTV炫舞未来
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV4)"tvg-logo="https://epg.v1.mk/logo/NewTV.png",NewTV怡伴健康
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV4)"tvg-logo="https://epg.v1.mk/logo/NewTV中国功夫.png",NewTV中国功夫
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-
-#EXTM3U
 #湖南省
 #EXTINF:-1 group-title="湖南省" tvg-logo="https://live.zbds.top/logo/湖南电影.png",湖南电影
 http://175.10.230.91:8081/tsfile/live/0019_1.m3u8
