@@ -127,27 +127,13 @@ http://nn.7x9d.cn/组播/咪咕视频.php?id=njsb
 http://nn.7x9d.cn/组播/咪咕视频.php?id=haxwzh
 #EXTINF:-1 group-title="『央卫①』"  tvg-logo="https://epg.v1.mk/logo/连云港新闻综合.png",连云港新闻综合
 http://nn.7x9d.cn/组播/咪咕视频.php?id=lygxwzh
-#EXTINF:-1 group-title="『央卫①』"  tvg-logo="https://epg.v1.mk/logo/江苏卫视.png",泰州新闻综合
+#EXTINF:-1 group-title="『央卫①』"  tvg-logo="https://epg.v1.mk/logo/泰州1.png",泰州-1
 http://nn.7x9d.cn/组播/咪咕视频.php?id=tzxwzh
 #EXTINF:-1 group-title="『央卫①』"  tvg-logo="https://epg.v1.mk/logo/宿迁新闻综合.png",宿迁新闻综合
 http://nn.7x9d.cn/组播/咪咕视频.php?id=sqxwzh
 #EXTINF:-1 group-title="『央卫①』"  tvg-logo="https://epg.v1.mk/logo/徐州新闻综合.png",徐州新闻综合
 http://nn.7x9d.cn/组播/咪咕视频.php?id=xzxwzh
-#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/浙江少儿.png",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/浙江教科影视.png",浙江教科影视
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/浙江新闻.png",浙江公共新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/浙江国际.png",浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/之江纪录.png",之江纪录
-http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/浙江民生休闲.png",浙江民生休闲
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/浙江经济生活.png",浙江经视
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/钱江都市.png",钱江都市
+
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="『央卫②』",CCTV1
 http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
@@ -257,8 +243,6 @@ http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/322
 http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv睛彩篮球.png" group-title="『央卫②』",睛彩篮球
 http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226469/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv睛彩篮球.png" group-title="『央卫②』",睛彩篮球
-http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226147/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv睛彩竞技.png" group-title="『央卫②』",睛彩竞技
 http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226124/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv睛彩广场舞.png" group-title="『央卫②』,睛彩广场舞
@@ -273,17 +257,10 @@ http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/322
 http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226239/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江农业科教" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Heilongjiang5.png" group-title="『央卫②』",黑龙江农业科教
 http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226242/index.m3u
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江农业科教" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Heilongjiang5.png" group-title="『央卫②』",黑龙江农业科教
-http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226492/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江少儿" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/heilongjiang/Heilongjiang6.png" group-title="『央卫②』",黑龙江少儿
 http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226304/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江都市" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/heilongjiang/Heilongjiang4.png" group-title="『央卫②』",黑龙江都市
 http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226427/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="佳木斯新闻" tvg-logo="" group-title="『央卫②』",佳木斯新闻
-http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226451/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="新闻综合" tvg-logo="" group-title="『央卫②』",新闻综合
-http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226422/index.m3u8
-#EXTM3U
 #EXTM3U
 #EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png",凤凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
