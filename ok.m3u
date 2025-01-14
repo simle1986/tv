@@ -542,44 +542,44 @@ http://cdn.132.us.kg/live/fhzw/stream.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-logo=
 #EXTM3U
 #NewTV⑥
-#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV爱情喜剧.png",爱情喜剧
-http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV超级综艺.png",超级综艺
 http://[2409:8087:1a0a:df::4016]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV超级电视剧.png",超级电视剧
 http://[2409:8087:1a0a:df::402a]/wh7f454c46tw1840265920_1021568913/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV超级电影.png",超级电影
-http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV超级体育.png",超级体育
 http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2798497282_1170252542/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8?icpid=88888888&RTS=1713110634&from=4&hms_devid=992&online=1713110634&vqe=3
 #EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV潮妈辣婆.png",潮妈辣婆
 http://[2409:8087:1a0a:df::402a]:80/wh7f454c46tw1933284823_1929264018/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 #EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV东北热剧.png",东北热剧
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV动作电影.png",动作电影
-http://[2409:8087:1a0a:df::4016]/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV古装剧场.png",古装剧场
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 #EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV欢乐剧场.png",欢乐剧场
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 #EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV金牌综艺.png",金牌综艺
 http://[2409:8087:1a0a:df::402a]/wh7f454c46tw1624655335_1622057483/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV惊悚悬疑.png",惊悚悬疑
-http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV精品大剧.png",精品大剧
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 #EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV.png",精品萌宠
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 #EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV军事评论.png",军事评论
 http://[2409:8087:1a0a:df::4016]/wh7f454c46tw1692016868_-1516333284/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV明星大片.png",明星大片
-http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 #EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV农业致富.png",农业致富
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 #EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV炫舞未来.png",炫舞未来
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 #EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV中国功夫.png",中国功夫
 http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2070901039_-123359714/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV爱情喜剧.png",爱情喜剧
+http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV超级电影.png",超级电影
+http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV动作电影.png",动作电影
+http://[2409:8087:1a0a:df::4016]/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV惊悚悬疑.png",惊悚悬疑
+http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV明星大片.png",明星大片
+http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="①浙江省" tvg-logo="https://live.zbds.top/logo/浙江少儿.png",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -599,7 +599,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 #EXTINF:-1 group-title="①浙江省" tvg-logo="https://live.zbds.top/logo/浙江经济生活.png",浙江经视
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 group-title="①浙江省" tvg-logo="https://live.zbds.top/logo/钱江都市.png",浙江钱江
+#EXTINF:-1 group-title="①浙江省" tvg-logo="https://live.zbds.top/logo/钱江都市.png",钱江都市
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 group-title="②湖南省" tvg-logo="https://live.zbds.top/logo/湖南电影.png",湖南电影
 http://175.10.230.91:8081/tsfile/live/0019_1.m3u8
