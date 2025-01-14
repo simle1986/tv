@@ -542,6 +542,8 @@ http://cdn.132.us.kg/live/fhzw/stream.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-logo=
 #EXTM3U
 #NewTV⑥
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV明星大片.png",明星大片
+http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 #EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV超级综艺.png",超级综艺
 http://[2409:8087:1a0a:df::4016]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV超级电视剧.png",超级电视剧
@@ -578,8 +580,6 @@ http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a0a:df::4016]/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV惊悚悬疑.png",惊悚悬疑
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV明星大片.png",明星大片
-http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="①浙江省" tvg-logo="https://live.zbds.top/logo/浙江少儿.png",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
