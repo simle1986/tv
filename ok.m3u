@@ -284,6 +284,57 @@ http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/322
 #EXTINF:-1 tvg-id="" tvg-name="新闻综合" tvg-logo="" group-title="『央卫②』",新闻综合
 http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226422/index.m3u8
 #EXTM3U
+#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png",凤凰中文
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/TVBS.png",TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/无线新闻.png",无线新闻台(北美)
+http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png",凤凰资讯
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/无线新闻.png",无线新闻台
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png",美亚电影台
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/明珠台.png",明珠台
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/中天亚洲台.png",中天亚洲台
+http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/翡翠.png",翡翠综合台(北美)
+http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/千禧经典台.png",千禧经典台
+http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/翡翠.png",翡翠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/娱乐新闻台.png",娱乐新闻台
+http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/PopC.png",PopC
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/黄金翡翠台.png",黄金翡翠台
+http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/千禧经典台.png",myTV SUPER 18
+http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/Animax.png",Animax
+http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+#EXTINF:-1 group-title="『AKTV』""tvg-logo="https://epg.v1.mk/logo/TVBS新闻.png",TVBS新闻台
+http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/龙华日韩.png",龙华日韩台
+http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/Thrill.png",Thrill
+http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/亚洲新闻台.png",亚洲新闻台
+http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/东方卫视.png",东方卫视国际频道
+http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/NHK.png",NHK World-Japan
+http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/ZooMoo.png",ZooMoo
+http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/Love Nature.png",Love Nature
+http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/Love Nature.png",Love Nature
+http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn//tv/凤凰卫视资讯台.png",凤凰资讯
 http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn//tv/凤凰卫视香港台.png",凤凰香港
@@ -534,96 +585,46 @@ http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台AKTV" tvg-logo="https://live.fanmingming.cn//tv/纬来体育台.png",纬来体育台
 http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
+
 #EXTM3U
-#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png",凤凰中文
-http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/TVBS.png",TVBS
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/无线新闻.png",无线新闻台(北美)
-http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png",凤凰资讯
-http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/无线新闻.png",无线新闻台
-http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png",美亚电影台
-http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/明珠台.png",明珠台
-http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/中天亚洲台.png",中天亚洲台
-http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/翡翠.png",翡翠综合台(北美)
-http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/千禧经典台.png",千禧经典台
-http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/翡翠.png",翡翠剧集台(北美)
-http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/娱乐新闻台.png",娱乐新闻台
-http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/PopC.png",PopC
-http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/黄金翡翠台.png",黄金翡翠台
-http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/千禧经典台.png",myTV SUPER 18
-http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/Animax.png",Animax
-http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』""tvg-logo="https://epg.v1.mk/logo/TVBS新闻.png",TVBS新闻台
-http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/龙华日韩.png",龙华日韩台
-http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/Thrill.png",Thrill
-http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/亚洲新闻台.png",亚洲新闻台
-http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/东方卫视.png",东方卫视国际频道
-http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/NHK.png",NHK World-Japan
-http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/ZooMoo.png",ZooMoo
-http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/Love Nature.png",Love Nature
-http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』"tvg-logo="https://epg.v1.mk/logo/Love Nature.png",Love Nature
-http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
-#EXTM3U
-#NewTV(IPV6)
-#EXTINF:-1 group-title="NewTV(IPV6)"tvg-logo="https://epg.v1.mk/logo/NewTV爱情喜剧.png",爱情喜剧
+#NewTV⑥
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV爱情喜剧.png",爱情喜剧
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV6)"tvg-logo="https://epg.v1.mk/logo/NewTV超级综艺.png",超级综艺
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV超级综艺.png",超级综艺
 http://[2409:8087:1a0a:df::4016]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV6)"tvg-logo="https://epg.v1.mk/logo/NewTV超级电视剧.png",超级电视剧
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV超级电视剧.png",超级电视剧
 http://[2409:8087:1a0a:df::402a]/wh7f454c46tw1840265920_1021568913/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV6)"tvg-logo="https://epg.v1.mk/logo/NewTV超级电影.png",超级电影
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV超级电影.png",超级电影
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV6)"tvg-logo="https://epg.v1.mk/logo/NewTV超级体育.png",超级体育
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV超级体育.png",超级体育
 http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2798497282_1170252542/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8?icpid=88888888&RTS=1713110634&from=4&hms_devid=992&online=1713110634&vqe=3
-#EXTINF:-1 group-title="NewTV(IPV6)"tvg-logo="https://epg.v1.mk/logo/NewTV潮妈辣婆.png",潮妈辣婆
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV潮妈辣婆.png",潮妈辣婆
 http://[2409:8087:1a0a:df::402a]:80/wh7f454c46tw1933284823_1929264018/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV6)"tvg-logo="https://epg.v1.mk/logo/NewTV东北热剧.png",东北热剧
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV东北热剧.png",东北热剧
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV6)"tvg-logo="https://epg.v1.mk/logo/NewTV动作电影.png",动作电影
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV动作电影.png",动作电影
 http://[2409:8087:1a0a:df::4016]/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV6)"tvg-logo="https://epg.v1.mk/logo/NewTV古装剧场.png",古装剧场
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV古装剧场.png",古装剧场
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV6)"tvg-logo="https://epg.v1.mk/logo/NewTV欢乐剧场.png",欢乐剧场
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV欢乐剧场.png",欢乐剧场
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV6)"tvg-logo="https://epg.v1.mk/logo/NewTV金牌综艺.png",金牌综艺
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV金牌综艺.png",金牌综艺
 http://[2409:8087:1a0a:df::402a]/wh7f454c46tw1624655335_1622057483/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV6)"tvg-logo="https://epg.v1.mk/logo/NewTV惊悚悬疑.png",惊悚悬疑
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV惊悚悬疑.png",惊悚悬疑
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV6)"tvg-logo="https://epg.v1.mk/logo/NewTV精品大剧.png",精品大剧
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV精品大剧.png",精品大剧
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV6)"tvg-logo="https://epg.v1.mk/logo/NewTV.png",精品萌宠
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV.png",精品萌宠
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV6)"tvg-logo="https://epg.v1.mk/logo/NewTV军事评论.png",军事评论
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV军事评论.png",军事评论
 http://[2409:8087:1a0a:df::4016]/wh7f454c46tw1692016868_-1516333284/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV6)"tvg-logo="https://epg.v1.mk/logo/NewTV明星大片.png",明星大片
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV明星大片.png",明星大片
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV6)"tvg-logo="https://epg.v1.mk/logo/NewTV农业致富.png",农业致富
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV农业致富.png",农业致富
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV6)"tvg-logo="https://epg.v1.mk/logo/NewTV炫舞未来.png",炫舞未来
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV炫舞未来.png",炫舞未来
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-#EXTINF:-1 group-title="NewTV(IPV6)"tvg-logo="https://epg.v1.mk/logo/NewTV中国功夫.png",中国功夫
+#EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV中国功夫.png",中国功夫
 http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2070901039_-123359714/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 #EXTM3U
 #湖南省
