@@ -539,7 +539,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 http://cdn.132.us.kg/live/hoy/stream.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png",凤凰中文
 http://cdn.132.us.kg/live/fhzw/stream.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo=
 #EXTM3U
 #NewTV⑥
 #EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV明星大片.png",明星大片
@@ -581,26 +580,29 @@ http://[2409:8087:1a0a:df::4016]/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chi
 #EXTINF:-1 group-title="NewTV⑥"tvg-logo="https://epg.v1.mk/logo/NewTV惊悚悬疑.png",惊悚悬疑
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="①浙江省" tvg-logo="https://live.zbds.top/logo/浙江少儿.png",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 group-title="①浙江省" tvg-logo="https://live.zbds.top/logo/浙江卫视.png",浙江影视娱乐
-https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+#EXTINF:-1 group-title="①浙江省" tvg-logo="https://live.zbds.top/logo/浙江卫视.png",浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 group-title="①浙江省" tvg-logo="https://live.zbds.top/logo/钱江都市.png",钱江都市
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 group-title="①浙江省" tvg-logo="https://live.zbds.top/logo/浙江经济生活.png",浙江经视
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 group-title="①浙江省" tvg-logo="https://live.zbds.top/logo/浙江教科影视.png",浙江教科影视
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="①浙江省" tvg-logo="https://live.zbds.top/logo/浙江卫视.png",浙江影视娱乐
+https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+#EXTINF:-1 group-title="①浙江省" tvg-logo="https://live.zbds.top/logo/浙江民生休闲.png",浙江民生休闲
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 group-title="①浙江省" tvg-logo="https://live.zbds.top/logo/浙江新闻.png",浙江公共新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 group-title="①浙江省" tvg-logo="https://live.zbds.top/logo/浙江少儿.png",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="①浙江省" tvg-logo="https://live.zbds.top/logo/中国蓝新闻.png",中国蓝新闻
+https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 #EXTINF:-1 group-title="①浙江省" tvg-logo="https://live.zbds.top/logo/浙江国际.png",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 group-title="①浙江省" tvg-logo="https://live.zbds.top/logo/之江纪录.png",浙江之江纪录
 http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 group-title="①浙江省" tvg-logo="https://live.zbds.top/logo/浙江民生休闲.png",浙江民生休闲
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 group-title="①浙江省" tvg-logo="https://live.zbds.top/logo/浙江经济生活.png",浙江生活
-http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-#EXTINF:-1 group-title="①浙江省" tvg-logo="https://live.zbds.top/logo/浙江经济生活.png",浙江经视
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 group-title="①浙江省" tvg-logo="https://live.zbds.top/logo/钱江都市.png",钱江都市
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="②湖南省" tvg-logo="https://live.zbds.top/logo/湖南电影.png",湖南电影
 http://175.10.230.91:8081/tsfile/live/0019_1.m3u8
 #EXTINF:-1 group-title="②湖南省" tvg-logo="https://live.zbds.top/logo/湖南爱晚.png",湖南爱晚
@@ -747,7 +749,7 @@ https://hls.nntv.cn/nnlive/YSYL_24.m3u8
 https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 #EXTINF:-1 group-title="⑥云南省" tvg-logo="https://epg.v1.mk/logo/兴隆电视台.png",隆安综合
 https://hls.nntv.cn/nnlive/LATV_24.m3u8
-#EXTINF:-1 group-title="⑥云南省" tvg-logo="https://epg.v1.mk/logo/云南麻栗坡.png",麻栗坡
+#EXTINF:-1 group-title="⑥云南省" tvg-logo="https://epg.v1.mk/logo/云南麻栗坡.png",云南麻栗坡
 http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
 #EXTINF:-1 group-title="⑥云南省" tvg-logo="https://epg.v1.mk/logo/云南丘北.png",丘北新闻综合
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
@@ -755,8 +757,6 @@ http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/pla
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel17/playlist.m3u8
 #EXTINF:-1 group-title="⑥云南省" tvg-logo="https://epg.v1.mk/logo/云南文山.png",文山州公共
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
-#EXTINF:-1 group-title="⑥云南省" tvg-logo="https://epg.v1.mk/logo/云南文山.png",文山综合
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 #EXTINF:-1 group-title="⑥云南省" tvg-logo="https://epg.v1.mk/logo/云南文山.png",文山综合
 http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 #EXTINF:-1 group-title="⑦陕西省" tvg-logo="https://live.zbds.top/logo/陕西西部电影.png",陕西西部电影
