@@ -195,7 +195,7 @@ http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 group-title="『AKTV』" tvg-logo="https://live.fanmingming.cn//tv/中天新闻台.png",中天新聞台
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://live.fanmingming.cn//tv/TVB DRAMA.png",明珠剧集台(北美)
+#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://live.fanmingming.cn//tv/TVB明珠台.g",明珠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 #EXTINF:-1 group-title="『AKTV』" tvg-logo="https://live.fanmingming.cn//tv/翡翠台.png",翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
