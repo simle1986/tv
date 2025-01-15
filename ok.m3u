@@ -215,11 +215,11 @@ http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 #EXTINF:-1 group-title="『AKTV』" tvg-logo="https://live.fanmingming.cn//tv/DW.png",DW
 http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://live.fanmingming.cn//tv/France24.png",France 24
+#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://live.fanmingming.cn//tv/france24.png",France 24
 http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 #EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/KIX.png",KIX
 http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://live.fanmingming.cn//tv/NHK.png",NHK東京総合
+#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://live.fanmingming.cn//tv/NHKWorld.png",NHK東京総合
 http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
 #EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/NICKJR.png",Nick Jr
 http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
@@ -259,9 +259,9 @@ https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6f
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai7.png",纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="hhttps://live.fanmingming.cn//tv/大爱一台.png",大爱1台
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://epg.v1.mk/logo/大爱1.png",大爱1台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="港澳台频道" tvg-logo="hhttps://live.fanmingming.cn//tv/大爱一台.png",大爱2台
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://epg.v1.mk/logo/大爱2.png",大爱2台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/dalitv.png",大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
