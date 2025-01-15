@@ -179,8 +179,6 @@ http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 #EXTINF:-1 group-title="『AKTV』" tvg-logo="https://live.fanmingming.cn//tv/凤凰卫视香港台.png",鳳凰香港
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://live.fanmingming.cn//tv/28 AI 智慧賽馬.png",28 AI 智慧賽馬
-http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 #EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.v1.mk/logo/channel5.png",Channel 5 HD
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 #EXTINF:-1 group-title="『AKTV』" tvg-logo="https://epg.112114.xyz/logo/channel8.png",Channel 8 HD
@@ -197,7 +195,7 @@ http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 group-title="『AKTV』" tvg-logo="https://live.fanmingming.cn//tv/中天新闻台.png",中天新聞台
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://live.fanmingming.cn//tv/明珠剧集台(北美).png",明珠剧集台(北美)
+#EXTINF:-1 group-title="『AKTV』" tvg-logo="https://live.fanmingming.cn//tv/TVBDRAMA.png",明珠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 #EXTINF:-1 group-title="『AKTV』" tvg-logo="https://live.fanmingming.cn//tv/翡翠台.png",翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
