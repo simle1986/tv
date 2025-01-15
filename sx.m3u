@@ -107,7 +107,7 @@ http://118.79.7.94:6000/rtp/226.0.2.152:9128
 http://118.79.7.94:6000/rtp/226.0.2.150:9112
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
 http://118.79.7.94:6000/rtp/226.0.2.178:9336
-#EXTINF:-1,tvg-id="福建卫视" tvg-name="福建卫视" tvg-logo="https://live.fanmingming.cn/tv/福建卫视.png" group-title="卫视",福建卫视
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
 http://118.79.7.94:6000/rtp/226.0.2.188:9416
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
 http://118.79.7.94:6000/rtp/226.0.2.52:8328
