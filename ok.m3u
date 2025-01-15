@@ -3,6 +3,8 @@
 https://gitee.com/simle1986/iptv/raw/master/xpk3.mp4
 #EXTINF:-1 group-title="公告-闲鱼小潘柯" tvg-logo="https://gitee.com/simle1986/iptv/raw/master/b2b.png",闲鱼小潘柯
 https://gitee.com/simle1986/iptv/raw/master/xpk.mp4
+#EXTINF:-1 tvg-name="大马猴世界赛" tvg-logo="https://epg.112114.xyz/logo/大马猴.png" group-title="电竞",大马猴世界赛
+https://pull-hs-f5.flive.douyincdn.com/thirdgame/stream-404794594899788554_expsd.flv?expire=1737555628&sign=c1ee918686a76fd4e054e6f0c84a98f8&volcSecret=c1ee918686a76fd4e054e6f0c84a98f8&volcTime=1737555628&major_anchor_level=common&_session_id=037-202501152220286CEA152E21E6AF30DBA9.1736950862462.21688&rsi=1
 #EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1
 http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv1
 #EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png",CCTV2
