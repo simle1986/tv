@@ -142,9 +142,9 @@ http://118.79.7.94:6000/rtp/226.0.2.67:8448
 http://118.79.7.94:6000/rtp/226.0.2.62:8408
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png",山东教育卫视
 http://118.79.7.94:6000/rtp/226.0.2.130:8952
-#EXTINF:-1 group-title="山西" tvg-logo="https://epg.112114.xyz/logo/山西公共.png",山西公共频道
+#EXTINF:-1 group-title="山西" tvg-logo="https://epg.112114.xyz/logo/山西文体生活.png",山西文体生活
 http://118.79.7.94:6000/rtp/226.0.2.16:8040
-#EXTINF:-1 group-title="山西" tvg-logo="https://epg.112114.xyz/logo/山西经济.png",山西经济与科技
+#EXTINF:-1 group-title="山西" tvg-logo="https://epg.112114.xyz/logo/山西经济与科技.png",山西经济与科技
 http://118.79.7.94:6000/rtp/226.0.2.236:9800
 #EXTINF:-1 group-title="山西" tvg-logo="https://epg.112114.xyz/logo/山西影视.png",山西影视频道
 http://118.79.7.94:6000/rtp/226.0.2.237:9808
