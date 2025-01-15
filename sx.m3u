@@ -151,7 +151,7 @@ http://118.79.7.94:6000/rtp/226.0.2.236:9800
 http://118.79.7.94:6000/rtp/226.0.2.237:9808
 #EXTINF:-1,tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://epg.112114.xyz/logo/山西社会与法治.png" group-title="山西",山西社会与法治
 http://118.79.7.94:6000/rtp/226.0.2.238:9816
-#EXTINF:-1,tvg-id="山西黄河电视台" tvg-name="山西黄河电视台" tvg-logo="https://epg.112114.xyz/logo/山西黄河.png" group-title="山西",黄河电视台
+#EXTINF:-1,tvg-id="山西黄河" tvg-name="黄河电视台" tvg-logo="https://epg.112114.xyz/logo/山西黄河.png" group-title="山西",黄河电视台
 http://118.79.7.94:6000/rtp/226.0.2.235:9792
 #EXTINF:-1,tvg-id="太原新闻频道" tvg-name="太原新闻频道" tvg-logo="https://epg.112114.xyz/logo/太原新闻.png" group-title="其他",太原新闻频道
 http://118.79.7.94:6000/rtp/226.0.2.201:9520
